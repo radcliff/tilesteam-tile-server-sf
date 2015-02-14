@@ -1,0 +1,12 @@
+{
+  "name": "san-francisco",
+  "description": "tilesteam server for a tiny sf tileset",
+  "version": "0.0.0",
+  "engines": {
+    "node": "0.8.x",
+    "npm":"1.4.28"
+  },
+  "dependencies": {
+    "tilestream": "1.1.0"
+  }
+}
