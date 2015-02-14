@@ -1,12 +1,18 @@
 {
-  "name": "san-francisco",
+  "name": "san-francisco-tiles",
   "description": "tilesteam server for a tiny sf tileset",
   "version": "0.0.0",
-  "engines": {
-    "node": "0.8.x",
-    "npm":"1.4.28"
+  "engines":{
+    "node":"0.10.26",
+    "npm": "1.4.3"
   },
   "dependencies": {
-    "tilestream": "1.1.0"
+    "tilestream": "1.1.0",
+    "jsdom":"0.5.7",
+    "xmlhttprequest": "1.5.0",
+    "backbone":"0.3.3",
+    "jquery":"1.6.3",
+    "express":"2.5.11",
+    "connect":"1.9.2"
   }
 }
